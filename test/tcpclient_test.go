@@ -11,7 +11,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com//gos7"
+	"github.com/poersmart/gos7"
 )
 
 const (
